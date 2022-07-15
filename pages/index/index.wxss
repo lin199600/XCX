@@ -78,7 +78,7 @@
 }
 .swiperItem{
   width: 96%;
-  background: #FCFCFC;
+  background: #f9f9f9;
 }
 .swiperItem .title {
   font-size: 26rpx;
